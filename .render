@@ -3,5 +3,5 @@ services:
     name: telegram-bot
     env: python
     buildCommand: ""
-    startCommand: bot_render.py
+    startCommand: python bot_render.py
     plan: free
