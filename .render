@@ -2,6 +2,7 @@ services:
   - type: web
     name: telegram-bot
     env: python
+    pythonVersion: 3.11.7
     buildCommand: ""
     startCommand: python bot_render.py
     plan: free
