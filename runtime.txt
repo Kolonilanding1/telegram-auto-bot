@@ -1,4 +1,1 @@
-__pycache__/
-*.pyc
-.env
-userlist.txt
+python-3.11.9
